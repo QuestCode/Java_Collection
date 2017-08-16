@@ -1,0 +1,10 @@
+100 Alan Jones 348.17
+300 Mary Smith 27.19
+500 Sam Sharp 0.00
+700 Suzy Green -14.22
+910 Ernest Hemingway 100.00
+920 Herman Melville 50.00
+930 George Washington 1110.10
+940 Abraham Lincoln -2020.02
+990 John Doe 0.0
+
