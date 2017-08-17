@@ -15,6 +15,16 @@
         8. CraiglistScraper
     2. Solutions
 
+* Data Structures
+    1. Another Palindrome
+    2. Ext Clock
+    3. Simple Structure
+    4. Lab 3
+        * Unordered Linked List
+    5.Collection API
+    6. Linked List
+    7. Recursion
+
 * First Java
     1. Assignments 1-6
     2. Practice

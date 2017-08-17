@@ -1,0 +1,8 @@
+Suppose that you have the following Vector object list:
+           list=[“One”,“Two”,“Three”,“Four”];
+What are the elements of list after the following statements execute?
+           list.addElement(“Five”);
+           list.insertElementAt(“Six”,1);
+           
+Answer 
+	["One","Six",“Two”,“Three”,“Four”,"Five"]
