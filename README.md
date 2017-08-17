@@ -1,6 +1,6 @@
 # Java Collection
 
-![alt text](https://github.com/QuestCode/java-collection/other-java/Pictures/great-programming-quotes.jpg "Keep Going!")
+![Bill Gates](https://github.com/QuestCode/java-collection/blob/master/other-java/Pictures/great-programming-quotes.jpg "Keep Going!")
 
 
 * Advance Java
